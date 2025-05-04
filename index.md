@@ -2,119 +2,100 @@
 
 [![Profile picture](https://avatars.githubusercontent.com/u/17805140?s=200&v=4)](https://github.com/17805140)
 
-**Lead Data Scientist | Apasionado por Datos, IA y Cloud**
+**Freelance Data Scientist & AI Engineer**
 
-¡Hola! Soy Eider, un Data Scientist especializado en revenue management, soluciones de analítica avanzada y metodologías MLOps. Me encanta transformar datos en decisiones de negocio mediante pipelines robustos y aplicaciones escalables.
-
----
-
-## 🏢 Experiencia Laboral
-
-- **Sigma Alimentos** (2023 – Presente)
-  - Lideré la implementación de la metodología Revenue Management 2.0, aumentando el volumen de ventas en un X%.
-  - Diseñé e implementé un framework CI/CD (MLOps) que redujo el tiempo de despliegue de 1 día a 5 minutos.
-  - Coordiné el proyecto Fair Share, desarrollando un modelo de clustering que generó \$1M adicionales en ventas y proyecta \$600M en 5 años.
-
-- **Nowports** (2022 – 2023)
-  - Optimicé modelos de ML en pipelines gestionados con Airflow, reduciendo el procesamiento de KYC de días a minutos.
-  - Automatización de flujos críticos de AML y KYC, mejorando la eficiencia operativa y experiencia de cliente.
-
-- **Dev.f** (2021 – 2022)
-  - Formé a más de 100 estudiantes en ciencia de datos, actualizando contenidos de MLflow, MLOps y matemáticas aplicadas.
-  - Enseñé automatización de modelos y buenas prácticas de despliegue.
-
-- **Fragmento** (2017 – 2022)
-  - Lideré el desarrollo de 10 aplicaciones, lanzando 3 exitosamente al mercado.
-  - Diseñé soluciones de impacto social, como un sistema de carpool universitario.
+Apoyo a empresas y startups en todo el ciclo CRISP‑DM, diseño de estrategias de maduración analítica y desarrollo de soluciones prescriptivas. Especializado en chatbots integrados con Teams (Text‑to‑SQL Agents) y frameworks para convertir insights descriptivos en acciones de negocio.
 
 ---
 
-## 🎓 Educación
+## 💡 Servicios Freelance
 
-- **Master of Science en Computer Science**, ITESM (2019 – 2021)
-  - Tesis: “Exploring Latent Class Algorithms for Computer Assisted Diagnosis (CADx)”.
-  - Contribución al paquete R FRESA.CAD (algoritmo HLCM_EM).
-  - GPA: 96/100
+- **Ciclo CRISP‑DM Completo**: desde la definición de objetivos y recolección de datos hasta despliegue y monitoreo de modelos.
+- **Estrategia de Madurez Analítica**: diagnóstico de curva de madurez, roadmap de adopción de analítica avanzada y evangelización interna.
+- **Text‑to‑SQL Agents en Teams**: desarrollo de chatbots que responden consultas descriptivas directamente desde Teams.
+- **Data‑to‑Action Frameworks**: pipelines end‑to‑end para transformar outputs descriptivos en workflows prescriptivos y automatizados.
+- **Implementación MLOps & CI/CD**: arquitectura de despliegue continuo, monitorización y escalado de modelos en Azure, AWS o Databricks.
 
+---
+
+## 🛠 Stack Tecnológico
+
+- **Lenguajes:** Python (Pandas, PyTorch, FastAPI), SQL, R, Bash
+- **Plataformas:** Azure (Databricks, Bot Framework), Microsoft Teams, AWS, Docker, Kubernetes
+- **ML & AI:** Scikit‑Learn, TensorFlow, Hugging Face, OpenAI API, Copilot Chat
+- **Data Engineering:** Spark, Airflow, Azure Data Factory
+- **BI & Visualización:** Power BI, Dash, Streamlit
+- **DevOps & MLOps:** GitHub Actions, Azure DevOps, Terraform, MLflow
+- **Bases de Datos:** SQL Server, PostgreSQL, Snowflake
+
+---
+
+## 🚀 Proyectos Clave
+
+### ChatAnalytics Bot 🤖
+**Descripción:** Agente conversacional en Teams que traduce preguntas de negocio a consultas SQL y retorna visualizaciones rápidas.
+
+- Diseño de NLP para entender intenciones y entidades.
+- Generación dinámica de consultas SQL con validación de seguridad.
+- Integración con Power BI Embedded para dashboards in‑chat.
+
+### Madurez 360° 📈
+**Descripción:** Framework de consultoría para evaluar y mejorar la madurez analítica de organizaciones.
+
+- Cuestionario de diagnóstico adaptado a CRISP‑DM.
+- Roadmap personalizado con KPIs y milestones.
+- Workshops y capacitaciones para equipos de datos.
+
+### DataGPT Workflow ⚙️
+**Descripción:** Automatización de análisis descriptivo con ChatGPT y Python.
+
+- Scripts que extraen insights clave y generan reportes PDF.
+- Orquestación con Airflow y despliegue en Azure Functions.
+
+### Fair Share Clustering 🛒
+**Descripción:** Segmentación de tiendas para optimizar estrategias de revenue management.
+
+- Desarrollo de clusters basados en variables de rendimiento y contexto geográfico.
+- Modelo de causa raíz para identificar oportunidades de crecimiento.
+- Dashboard interactivo en Power BI para stakeholders.
+
+---
+
+## 📜 Experiencia Profesional
+
+- **Sigma Alimentos** (Freelance • 2024 – Presente)
+  - Consultoría en revenue management, CRISP‑DM y MLOps.
+  - Implementación de Text‑to‑SQL Agents en Teams para equipos de Revenue.
+
+- **Nowports** (Consultor • 2022 – 2023)
+  - Automatización de pipelines de KYC/AML con Airflow.
+  - Reducción de procesamiento de datos de días a minutos.
+
+- **Dev.f** (Instructor • 2021 – 2022)
+  - Curso de MLOps y CI/CD para más de 100 profesionales.
+
+- **Fragmento** (Lead Data Scientist • 2017 – 2022)
+  - Desarrollo de aplicaciones IoT y soluciones de analítica social.
+
+---
+
+## 🎓 Formación & Certificaciones
+
+- **MSc Computer Science**, ITESM (2019 – 2021) – Tesis en algoritmos de diagnóstico asistido por computadora.
 - **Ingeniería en Informática**, Instituto Tecnológico de los Mochis (2013 – 2018)
-  - Graduado con Mención Honorífica.
-  - GPA: 94/100
-
----
-
-## 🛠 Tecnologías y Habilidades
-
-### Lenguajes y Herramientas
-- Python (Pandas, PyTorch, FastAPI, Scikit-Learn, Scrapy), R, SQL, Bash
-- Apache Spark, Databricks, Azure, AWS, Docker
-- CI/CD (GitHub Actions, Azure DevOps, Travis), MLOps
-- Power BI, Jupyter, Docker
-
-### Habilidades Blandas
-- Comunicación efectiva y storytelling para audiencias técnicas y no técnicas
-- Liderazgo y mentoría de equipos de ciencia de datos
-- Pensamiento estratégico alineado a objetivos de negocio
-- Aprendizaje continuo y adaptabilidad
-
----
-
-## 📜 Certificaciones
-
-- Databricks Certified Machine Learning Professional (WIP) – 2025
-- Databricks Machine Learning Practitioner – 2024
-- Databricks Lakehouse Fundamentals – 2024
-- Microsoft Azure AZ-900 – 2022
-- Scrum Developer Professional Certificate (SDPC) – 2022
-
----
-
-## 🚀 Proyectos Destacados
-
-### Data GPT Workflow ⚙️
-- Automatización de análisis de datos integrando ChatGPT con Python.
-- Scripts para generación de reportes y visualizaciones automáticas.
-
-### Wario-classifier 🍄
-- Clasificación de imágenes con Azure Custom Vision.
-- Distingue entre personajes de Nintendo y mi amigo Wario Chávez.
-- [Código fuente](https://github.com/17805140/wario-classifier) | [Demo](https://wario-demo.example.com)
-
-### Sleep & Productivity 💤
-- Estudio correlación entre sueño (Xiaomi Mi Band 5) y productividad (Forest App).
-- Notebooks reproducibles y dashboard en Power BI.
-
-### MagicMirror x Memento Mori 🪞
-- Módulo para MagicMirror que calcula semanas de vida restantes (filosofía estoica).
-- [Instalación y uso](https://github.com/17805140/magicmirror-mementomori)
-
-### Magic Launchpad App 🎹
-- App Ionic con sonidos pregrabados estilo launchpad.
-- Exploración de monetización in-app.
-
-### Sinaloa Alerta App 📢
-- App Ionic con notificaciones personalizadas según ubicación.
-- Basada en alerta temprana de fenómenos locales.
-
-### Spotify Analysis 🎧
-- Visualización de mi historial de escucha de Spotify.
-- [Reporte interactivo](https://datastudio.google.com/reporting/1B4lsJDWBriU7R2nx9ii2zuJE6FXRTBrg/page/jnxUB)
-
----
-
-## 🔍 Proyectos Personales
-
-- **Clasificador de Códigos Arancelarios** (2022): Clasificación de fracciones arancelarias con PySpark en Azure Databricks.
-- **HatchApp** (2017): Automatización del hogar con Python y Raspberry Pi, control remoto por Telegram/WhatsApp.
-- **Ágora Informática** (2016): Comunidad para desarrolladores junior en Sinaloa, organizando hackatones y eventos.
+- **Databricks Certified ML Professional** (2025)
+- **Microsoft Azure AZ‑900** (2022)
+- **Scrum Developer Professional Certificate** (2022)
 
 ---
 
 ## 📫 Contacto
 
-- 📧 eiderdiazmoraila@hotmail.com
-- 💼 [LinkedIn](https://linkedin.com/in/eiderdiazm95)
+- ✉️ eiderdiazmoraila@hotmail.com
+- 🌐 [LinkedIn](https://linkedin.com/in/eiderdiazm95)
 - 🐦 [Twitter](https://twitter.com/eiderdiazm95)
+- 🌟 [GitHub](https://github.com/17805140)
 
 ---
 
-<p align="center">Made with ❤️ por Jesús Eider Díaz</p>
+<p align="center">Transformando datos en decisiones y acciones 🤙</p>
